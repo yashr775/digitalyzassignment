@@ -1,0 +1,6 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C1,Acme Corp,3,T1,Tier1,{"location":"NY"}
+C2,Globex Inc,5,T2,Tier1,{"location":"TX"}
+C3,Initech,2,T3,Tier2,{"location":"CA"}
+C4,Vandelay Industries,4,T4,Tier2,{"location":"FL"}
+C5,Soylent Corp,1,T5,Tier3,{"location":"WA"}

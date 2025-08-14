@@ -1,0 +1,6 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W1,John Doe,plumbing,"[1,2,3]",3,GroupA,Expert
+W2,Jane Smith,electrical,"[1,3,4]",2,GroupB,Intermediate
+W3,Bob Johnson,carpentry,"[2,4]",2,GroupA,Intermediate
+W4,Alice Brown,painting,"[1,2,4]",3,GroupC,Expert
+W5,Charlie Davis,plumbing,electrical,"[1,2,3,4]",4,GroupB,Expert

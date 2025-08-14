@@ -1,0 +1,6 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,Fix Pipe,Maintenance,2,plumbing,"[1,2]",1
+T2,Install Wiring,Installation,1,electrical,"[3,4]",2
+T3,Build Desk,Furniture,3,carpentry,"[2]",1
+T4,Paint Wall,Decor,1,painting,"[1,4]",2
+T5,Kitchen Setup,Installation,2,plumbing,electrical,"[2,3]",2
